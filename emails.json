@@ -1,0 +1,32 @@
+[
+  {
+    "sender": "owner@company.com",
+    "subject": "Plant Watering Instructions",
+    "content": "Hi Manager,<br><br>Here are the rules for watering the plants: We need to water the plants two days each week.<br><br>Your coordination is appreciated.<br><br>Best regards,<br>Owner"
+  },
+  {
+    "sender": "owner@company.com",
+    "subject": "Plant Watering - one more thing",
+    "content": "Hi Manager,<br><br>Another thing: it is not healthy for the plants to water them on consecutive days.<br> So we need to water them two days each week, but they should not be consecutive.<br><br>Your coordination is appreciated.<br><br>Best regards,<br>Owner"
+  },
+  {
+    "sender": "owner@company.com",
+    "subject": "Updated Hours of Operation",
+    "content": "Hi Manager,<br><br>I hope you're doing well. Given the ongoing staffing challenges, we've made some adjustments to our operating hours. Here's the new schedule:<br><br>• Closed on Sundays.<br>• Lunch service only on Mondays, Tuesdays, and Thursdays.<br>• Dinner service only on Wednesdays, Fridays, and Saturdays.<br><br>Please communicate these changes to the team at your earliest convenience. <br>Thanks for your understanding.<br><br>Best regards,<br>Owner"
+  },
+  {
+    "sender": "owner@company.com",
+    "subject": "Important: Plant Watering and Floor Polishing",
+    "content": "Hi Manager,<br><br>I just remembered, we need to avoid plant watering and floor polishing on the same day. <br> It is very important to prevent any interference between the water and the polish.<br><br>Thanks for your attention to detail.<br><br>Best regards,<br>Owner"
+  },
+  {
+    "sender": "owner@company.com",
+    "subject": "Lunch specials",
+    "content": "Hi Manager,<br><br>I was thinking, maybe we should change up some of the lunch specials. I went to a restaurant down the block that has a preset lunch menu (starter, entrée, plus a dessert for an extra charge). Let’s chat about this next time we meet.<br><br>Best regards,<br>Owner"
+  },
+  {
+    "sender": "owner@company.com",
+    "subject": "Action Required: Floor Polishing Days",
+    "content": "Hello Manager,<br><br>Considering the guidelines I've provided for plant watering and floor polishing,<br> I need you to determine the two days when we can schedule floor polishing. <br><br>Your prompt response is appreciated.<br><br>Thank you,<br>Owner"
+  }
+]

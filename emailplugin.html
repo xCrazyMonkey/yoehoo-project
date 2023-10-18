@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Email Inbox Simulation</title>
+      <link rel="stylesheet" type="text/css" href="style.css">
+      <script>
+         const simVersion = 1; // Set to 1 for version 1, or 2 for version 2
+      </script>
+   </head>
+   <body>
+      <audio id="email-notification" src="notification-sound.mp3" preload="auto"></audio>
+      <div id="header">
+         <img src="yoehoo-logo.png" id="logo"></img>
+      </div>
+
+      <div id="notification-popup" class="notification-popup">
+         <img src="mail-icon.png" id="mail-icon"></img>
+         <span id="notification-message" class="notification-message"></span>
+      </div>
+
+      <div class="container">
+         <div class="inbox" id="inbox">
+            <h2 id="inbox-title">Inbox</h2>
+            <div class="inbox-container">
+               <div class="inbox-list" id="inbox-list"></div>
+            </div>
+         </div>
+         
+         <div class="email-content" id="email-content">
+            <h2 id="content-empty">Select an email to view its content.</h2>
+         </div>
+         <div class="task-and-notes">
+            <div class="task-box">
+               <p style="font-size: 20px;"><strong>Task </strong> <br>You are a manager at a restaurant. Your task is to figure out a schedule for polishing floors and watering plants for this restaurant. You will receive information, clues and hints via email from your boss (the restaurant owner) while you are working on the task, so keep an eye on your inbox on the left.<br><br>
+   
+               Here are some rules for polishing floors to start out:<br>
+               1) Floors need to be polished three days each week.<br>
+               2) The floor polish shine lasts for 2 days, so they should not be polished on consecutive days.</p>
+            </div>
+            <div class="notes-box">
+               <p style="font-size: 20px;"><strong>Your notes </strong></p>
+               <textarea class="notes-textarea" placeholder="Take notes here..."></textarea>
+            </div>
+         </div>
+         
+      </div>
+      <div id="footer">
+         <p>version 1.1.0</p>
+      </div>
+      <script src="script.js"></script>
+   </body>
+</html>

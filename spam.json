@@ -1,0 +1,63 @@
+[
+    {
+      "sender": "john.doe@restaurant.com",
+      "subject": "Request for Time Off",
+      "content": "Hi Manager,<br><br>I hope this message finds you well. I wanted to discuss the possibility of taking a few days off next month. I've attached the time-off request form to this email. Please let me know the best time to sit down and discuss this further.<br><br>Thank you for your understanding.<br><br>Best regards,<br>John Doe",
+      "dayOfDelivery": "02/10/2023"
+    },
+    {
+      "sender": "alice.smith@restaurant.com",
+      "subject": "Feedback on Recent Menu Changes",
+      "content": "Hello Manager,<br><br>I wanted to share some feedback regarding the recent menu changes. While some items have received positive responses from customers, others have raised concerns. I'd love to discuss this in person and explore potential adjustments.<br><br>Looking forward to your guidance.<br><br>Warm regards,<br>Alice Smith",
+      "dayOfDelivery": "04/10/2023"
+    },
+    {
+      "sender": "emma.jones@restaurant.com",
+      "subject": "Employee Recognition",
+      "content": "Hi Manager,<br><br>I'd like to recognize a fellow team member, Sarah Johnson, for her outstanding performance last week. She went above and beyond to ensure exceptional customer service. It would be great to acknowledge her efforts during our next team meeting.<br><br>Thank you for your attention to this.<br><br>Sincerely,<br>Emma Jones",
+      "dayOfDelivery": "06/10/2023"
+    },
+    {
+      "sender": "james.wilson@restaurant.com",
+      "subject": "Inventory Restocking Request",
+      "content": "Hello Manager,<br><br>We've noticed that our inventory for certain items is running low. To ensure smooth operations, I kindly request that we restock the necessary supplies. I've attached a list of the items in question for your reference.<br><br>Your prompt action is appreciated.<br><br>Best regards,<br>James Wilson",
+      "dayOfDelivery": "08/10/2023"
+    },
+    {
+      "sender": "sarah.miller@restaurant.com",
+      "subject": "Upcoming Team Meeting Agenda",
+      "content": "Hi Manager,<br><br>As we prepare for our next team meeting, I've put together an agenda that covers important topics, including customer feedback, upcoming events, and team recognition. If you have any additional items to include, please let me know.<br><br>Looking forward to a productive meeting.<br><br>Regards,<br>Sarah Miller",
+      "dayOfDelivery": "09/10/2023"
+    },
+    {
+        "sender": "john.smith@restaurant.com",
+        "subject": "Weekly Report Submission",
+        "content": "Hello Manager,<br><br>I'm writing to inform you that I will be submitting the weekly report by the end of today. I appreciate your understanding and support in this matter.<br><br>Best regards,<br>John Smith",
+        "dayOfDelivery": "09/11/2023"
+      },
+      {
+        "sender": "alice.jones@restaurant.com",
+        "subject": "Request for Shift Change",
+        "content": "Hi Manager,<br><br>I hope this message finds you well. I would like to request a shift change for next week due to a personal commitment. I've attached the shift change request form for your convenience.<br><br>Thank you for your consideration.<br><br>Warm regards,<br>Alice Jones",
+        "dayOfDelivery": "09/12/2023"
+      },
+      {
+        "sender": "james.wilson@restaurant.com",
+        "subject": "Menu Update Suggestions",
+        "content": "Hello Manager,<br><br>After reviewing customer feedback, I've identified some menu items that may benefit from updates. I'd like to discuss these suggestions with you at your earliest convenience.<br><br>Looking forward to your input.<br><br>Best regards,<br>James Wilson",
+        "dayOfDelivery": "09/14/2023"
+      },
+      {
+        "sender": "susan.brown@restaurant.com",
+        "subject": "Employee Recognition",
+        "content": "Hi Manager,<br><br>I would like to recognize Tom Johnson for his outstanding dedication and excellent customer service. His efforts have positively impacted our team and customers. It would be great to acknowledge his contributions.<br><br>Thank you for your consideration.<br><br>Sincerely,<br>Susan Brown",
+        "dayOfDelivery": "09/16/2023"
+      },
+      {
+        "sender": "michael.clark@restaurant.com",
+        "subject": "Training Request",
+        "content": "Hello Manager,<br><br>I am interested in attending the upcoming customer service training program. Please let me know the details and if it's possible for me to participate.<br><br>Thank you for your assistance.<br><br>Regards,<br>Michael Clark",
+        "dayOfDelivery": "09/18/2023"
+      }
+  ]
+  

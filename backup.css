@@ -1,0 +1,53 @@
+/* inbox title */
+#inbox-title{
+  padding-left:10px;
+}
+
+#content-empty{
+  height :50%;
+}
+
+/* Styles for emails */
+.email {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  background-color: #fff;
+  transition: background-color 0.3s ease;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+.email:hover {
+  background-color: #f0f0f0;
+  transform: translateY(-3px);
+}
+
+.email:active {
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+/* Styles for the container */
+.container {
+  outline: 3px solid #ccc;
+  padding: 20px;
+  display: flex;
+  align-items: flex-start;
+  overflow: hidden; 
+  height:500px;
+}
+
+/* Styles for the inbox list */
+
+
+/* div containing inbox-list and inbox-title */
+.inbox {
+  width: 30%;
+  border-right: 2px solid #ccc;
+  height:100%;
+}
+/* Styles for the email content */
+.email-content {
+  width: 50%;
+  padding: 10px;
+  height:100%;
+}
